@@ -1,6 +1,6 @@
 # SoftetherVPN_remote_setup
 Softether VPN remote server + client setup scripts and directions.
-### -- Server --
+### -- Server Commands --
 - sudo chmod 755 create_server.sh
 - ./create_server.sh
 - 1
