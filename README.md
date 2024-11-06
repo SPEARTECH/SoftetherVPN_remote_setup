@@ -3,12 +3,6 @@ Softether VPN remote server + client setup scripts and directions.
 ### -- Server Commands --
 - sudo chmod 755 create_server.sh
 - ./create_server.sh
-- 1
-- GroupCreate \<groupname\>
-- HubCreate \<hubname\>
-- UserCreate \<username\>
-- UserPasswordSet \<password\>
-- SecureNatEnable
 
 ### -- Client Commands --
 - Wget https://www.softether-download.com/files/softether/v4.43-9799-beta-2023.08.31-tree/Linux/SoftEther_VPN_Client/64bit_-_Intel_x64_or_AMD64/softether-vpnclient-v4.43-9799-beta-2023.08.31-linux-x64-64bit.tar.gz
