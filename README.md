@@ -16,9 +16,9 @@ Softether VPN remote server + client setup scripts and directions.
 - ./vpncmd.exe
 - 2
 - *press enter (localhost)
-- AccountCreate MyVPN /SERVER:<serverip> /HUB:<hubname> /USERNAME:<username> /NICNAME:vpn_se
+- AccountCreate MyVPN /SERVER:\<serverip\> /HUB:\<hubname\> /USERNAME:\<username\> /NICNAME:vpn_se
 <serverip>:<serverport>
-- AccountPasswordSet MyVPN /PASSWORD:<username> /TYPE:standard
+- AccountPasswordSet MyVPN /PASSWORD:\<username\> /TYPE:standard
 - AccountConnect MyVPN
 
 # Change network adapter metric to 500 (so internet doesn’t go through it by default).
