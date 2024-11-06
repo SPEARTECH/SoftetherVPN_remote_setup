@@ -21,4 +21,4 @@ Softether VPN remote server + client setup scripts and directions.
 - AccountPasswordSet MyVPN /PASSWORD:<username> /TYPE:standard
 - AccountConnect MyVPN
 
-# change network adapter metric to 500 (so internet doesn’t go through it by default).
+# Change network adapter metric to 500 (so internet doesn’t go through it by default).
