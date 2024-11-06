@@ -4,10 +4,10 @@ Softether VPN remote server + client setup scripts and directions.
 - sudo chmod 755 create_server.sh
 - ./create_server.sh
 - 1
-- GroupCreate <groupname>
-- HubCreate <hubname>
-- UserCreate <username>
-- UserPasswordSet <password>
+- GroupCreate \<groupname\>
+- HubCreate \<hubname\>
+- UserCreate \<username\>
+- UserPasswordSet \<password\>
 - SecureNatEnable
 
 ### -- Client Commands --
