@@ -2,10 +2,10 @@
 Softether VPN remote server + client setup scripts and directions.
 
 ### -- Setup Commands --
-(Linux)
+\(Linux\)
 - sudo chmod 755 create_vm.sh
 - ./create_vm.sh
-(Windows)
+\(Windows\)
 - SetExecutionPolicy Unrestricted
 - ./create_vm.ps1
 
